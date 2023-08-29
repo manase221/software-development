@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "manase221_s_application2"
